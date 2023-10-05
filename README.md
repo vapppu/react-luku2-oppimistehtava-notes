@@ -1,4 +1,3 @@
-# Course data, part 2
+# Single page app: notes
 
-Render course data with Course module
-# react-luku2-oppimistehtava-notes
+Single-page React app to add notes and display them on screen.
