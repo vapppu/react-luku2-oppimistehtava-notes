@@ -34,6 +34,21 @@
       "content": "hilipatipippan",
       "important": false,
       "id": 7
+    },
+    {
+      "content": "kissa",
+      "important": false,
+      "id": 8
+    },
+    {
+      "content": "koira",
+      "important": false,
+      "id": 9
+    },
+    {
+      "content": "marsu",
+      "important": true,
+      "id": 10
     }
   ]
 }
